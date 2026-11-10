@@ -26,4 +26,4 @@
 
 ### Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin)](https://www.linkedin.com/in/lina-duong/) [![Email](https://img.shields.io/badge/Email--red?logo=gmail)](mailto:linaduong1270@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?logo=linkedin)](https://www.linkedin.com/in/lina-duong/) [![Tableau](https://img.shields.io/badge/Tableau--white?logo=tableau)](https://public.tableau.com/app/profile/lina.duong/vizzes) [![Email](https://img.shields.io/badge/Email--red?logo=gmail)](mailto:linaduong1270@gmail.com)
