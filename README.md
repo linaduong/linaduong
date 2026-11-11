@@ -15,11 +15,11 @@
 ### Certifications 
 
 <div align="left">
-    <a href="https://www.credly.com/earner/earned/badge/f075aca0-f207-49d2-96d0-70fd6e0e9468" target="_blank">
+    <a href="https://www.credly.com/badges/f075aca0-f207-49d2-96d0-70fd6e0e9468/public_url" target="_blank">
     <img src="https://images.credly.com/images/58b06a5f-aee6-4a11-ac53-da36d5f70e8e/image.png" width="15%">
-    <a href="https://www.credly.com/earner/earned/badge/d991bc0b-7a3a-4724-a8b7-9b522a023646" target="_blank">
+    <a href="https://www.credly.com/badges/d991bc0b-7a3a-4724-a8b7-9b522a023646/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/14744318-8d6a-49c3-971d-6a4a0f524925/Certification_Designer_Core.png" width="15%">
-    <a href="https://www.credly.com/earner/earned/badge/2e9867b1-13f8-4765-91b0-c7fbb8d7c64a" target="_blank">
+    <a href="https://www.credly.com/badges/2e9867b1-13f8-4765-91b0-c7fbb8d7c64a/public_url" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/de878f56-515d-40e5-b102-e667192c6f08/Certification_Designer_Advanced.png" width="15%">
     </a>
     <img src="https://templates.images.credential.net/16377649693790199922879811460604.png" width="15%">
